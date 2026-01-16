@@ -20,3 +20,5 @@ As part of my UI/UX learning journey, I designed Serinify, a mental wellness app
 
 💡 Key Insight:
  Designing for mental wellness is not about tracking more — it’s about helping users slow down, reflect, and build habits that feel supportive rather than demanding.
+
+ https://www.behance.net/gallery/242251381/Mental-Wellness-App-Habit-Tracker
